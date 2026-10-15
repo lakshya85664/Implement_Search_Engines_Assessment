@@ -1,0 +1,16 @@
+
+{
+  "query": "Python search engine",
+  "results": [
+    {
+      "title": "Python Documentation",
+      "url": "https://docs.python.org/",
+      "snippet": "Official Python documentation.",
+      "source": "docs.python.org",
+      "score": 0.95
+    }
+  ],
+  "result_count": 1,
+  "citations": ["https://docs.python.org/"],
+  "provider": "local_fixture"
+}

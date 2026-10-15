@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-10-15T07:22:41.349873+00:00",
+  "task": "Transient provider retry",
+  "status": "ok",
+  "provider_calls": 3,
+  "events": [
+    {
+      "event": "tool.completed",
+      "run_id": "RUN-ABCE394C9C29",
+      "tool": "search_engine",
+      "status": "ok",
+      "provider": "local_fixture",
+      "result_count": 3
+    },
+    {
+      "event": "provider.completed",
+      "run_id": "RUN-ABCE394C9C29",
+      "provider": "local_fixture",
+      "status": "ok"
+    },
+    {
+      "event": "tool.completed",
+      "run_id": "RUN-ABCE394C9C29",
+      "tool": "search_engine",
+      "status": "ok",
+      "duration_ms": 1.543
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,43 @@
+
+[
+  {
+    "id": "DOC-001",
+    "title": "Python Official Documentation",
+    "url": "https://docs.python.org/3/",
+    "domain": "docs.python.org",
+    "content": "Python is a programming language. The official documentation covers the Python tutorial, language reference, standard library, and installation.",
+    "updated_at": "2026-10-10"
+  },
+  {
+    "id": "DOC-002",
+    "title": "Python Tutorial",
+    "url": "https://docs.python.org/3/tutorial/",
+    "domain": "docs.python.org",
+    "content": "The Python tutorial introduces syntax, data structures, control flow, functions, modules, exceptions, and classes.",
+    "updated_at": "2026-10-12"
+  },
+  {
+    "id": "DOC-003",
+    "title": "HTTPX Documentation",
+    "url": "https://www.python-httpx.org/",
+    "domain": "www.python-httpx.org",
+    "content": "HTTPX is an HTTP client for Python. It supports synchronous and asynchronous requests, connection pooling, timeouts, and HTTP status handling.",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "DOC-004",
+    "title": "Pydantic Documentation",
+    "url": "https://docs.pydantic.dev/",
+    "domain": "docs.pydantic.dev",
+    "content": "Pydantic validates data using Python type annotations. Models support field constraints, structured validation errors, and JSON schema generation.",
+    "updated_at": "2026-10-11"
+  },
+  {
+    "id": "DOC-005",
+    "title": "Pytest Documentation",
+    "url": "https://docs.pytest.org/",
+    "domain": "docs.pytest.org",
+    "content": "Pytest is a testing framework for Python. It supports fixtures, parametrization, assertions, test discovery, and plugins.",
+    "updated_at": "2026-10-13"
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "generated_at": "2026-10-15T07:22:41.349873+00:00",
+  "task": "Search results and ranking",
+  "result_count": 5,
+  "results": [
+    {
+      "title": "Python Official Documentation",
+      "url": "https://docs.python.org/3/",
+      "snippet": "Python is a programming language. The official documentation covers the Python tutorial, language reference, standard library, and installation.",
+      "source": "docs.python.org",
+      "score": 0.7778
+    },
+    {
+      "title": "Python Tutorial",
+      "url": "https://docs.python.org/3/tutorial/",
+      "snippet": "The Python tutorial introduces syntax, data structures, control flow, functions, modules, exceptions, and classes.",
+      "source": "docs.python.org",
+      "score": 0.6667
+    },
+    {
+      "title": "HTTPX Documentation",
+      "url": "https://www.python-httpx.org/",
+      "snippet": "HTTPX is an HTTP client for Python. It supports synchronous and asynchronous requests, connection pooling, timeouts, and HTTP status handling.",
+      "source": "www.python-httpx.org",
+      "score": 0.3333
+    },
+    {
+      "title": "Pydantic Documentation",
+      "url": "https://docs.pydantic.dev/",
+      "snippet": "Pydantic validates data using Python type annotations. Models support field constraints, structured validation errors, and JSON schema generation.",
+      "source": "docs.pydantic.dev",
+      "score": 0.3333
+    },
+    {
+      "title": "Pytest Documentation",
+      "url": "https://docs.pytest.org/",
+      "snippet": "Pytest is a testing framework for Python. It supports fixtures, parametrization, assertions, test discovery, and plugins.",
+      "source": "docs.pytest.org",
+      "score": 0.3333
+    }
+  ],
+  "citations": [
+    "https://docs.python.org/3/",
+    "https://docs.python.org/3/tutorial/",
+    "https://www.python-httpx.org/",
+    "https://docs.pydantic.dev/",
+    "https://docs.pytest.org/"
+  ]
+}

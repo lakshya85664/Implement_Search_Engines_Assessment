@@ -1,0 +1,7 @@
+
+{
+  "query": "Python search engine",
+  "max_results": 5,
+  "freshness": "any",
+  "domains": ["docs.python.org"]
+}

@@ -1,0 +1,7 @@
+{
+  "generated_at": "2026-10-15T07:22:41.349873+00:00",
+  "task": "Strict input validation",
+  "rejected": true,
+  "error_type": "ValidationError",
+  "message": "2 validation errors for SearchInput\nquery\n  String should have at least 2 characters [type=string_too_short, input_value='x', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.14/v/string_too_short\nmax_results\n  Input should be less than or equal to 10 [type=less_than_equal, input_value=100, input_type=int]\n    For further information visit https://errors.pydantic.dev/2.14/v/less_than_equal"
+}

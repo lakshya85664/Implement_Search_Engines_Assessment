@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-10-15T07:22:41.349873+00:00",
+  "task": "Idempotency and replay",
+  "first_status": "ok",
+  "second_status": "ok",
+  "provider_calls": 1,
+  "second_events": [
+    {
+      "event": "tool.cache_hit",
+      "run_id": "RUN-F932211BD2E9",
+      "tool": "search_engine",
+      "status": "ok"
+    },
+    {
+      "event": "tool.completed",
+      "run_id": "RUN-F932211BD2E9",
+      "tool": "search_engine",
+      "status": "ok",
+      "duration_ms": 0.054
+    }
+  ],
+  "same_data": true
+}
